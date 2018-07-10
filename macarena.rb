@@ -24,7 +24,7 @@ puts " Place your right hand on your left shoulder."
 puts " Place your left hand on your right shoulder."
 
 # Step 7: FIXME
-puts " Bring your right hand up and around to the back of your head."
+puts " Bring your right hand up and around to the back your head."
 
 # Step 8: FIXME
-puts " Bring your left hand up and around to the back of your head."
+puts " Bring your left hand up and around to the back your head."
