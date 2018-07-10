@@ -12,7 +12,7 @@ puts " Right arm out in front of you, palm facing down."
 puts " Left arm out in front of you, palm facing down."
 
 # Step 3: FIXME
-puts " Turn your right paml up."
+puts " Turn your right palm up."
 
 # Step 4: FIXME
 puts " Turn your left palm up."
